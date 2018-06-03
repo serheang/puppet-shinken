@@ -1,7 +1,7 @@
 shinken
 -------
 
-This is the shinken module to manage:
+This is my first attempt to do puppet module for shinken to manage:
 1. shinken user and ssh keys
 -- to regenerate the ssh keys:
     $ cd files
